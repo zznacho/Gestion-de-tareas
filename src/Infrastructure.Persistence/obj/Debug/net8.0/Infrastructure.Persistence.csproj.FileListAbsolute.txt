@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\PROYECTOS\Gestion-de-tareas\src\Infrastructure.Persistence\bin\Debug\net8.0\Infrastructure.Persistence.deps.json
+C:\Users\usuario\Desktop\PROYECTOS\Gestion-de-tareas\src\Infrastructure.Persistence\bin\Debug\net8.0\Infrastructure.Persistence.dll
+C:\Users\usuario\Desktop\PROYECTOS\Gestion-de-tareas\src\Infrastructure.Persistence\bin\Debug\net8.0\Infrastructure.Persistence.pdb
+C:\Users\usuario\Desktop\PROYECTOS\Gestion-de-tareas\src\Infrastructure.Persistence\bin\Debug\net8.0\Core.Domain.dll
+C:\Users\usuario\Desktop\PROYECTOS\Gestion-de-tareas\src\Infrastructure.Persistence\bin\Debug\net8.0\Core.Domain.pdb
+C:\Users\usuario\Desktop\PROYECTOS\Gestion-de-tareas\src\Infrastructure.Persistence\obj\Debug\net8.0\Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\PROYECTOS\Gestion-de-tareas\src\Infrastructure.Persistence\obj\Debug\net8.0\Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\PROYECTOS\Gestion-de-tareas\src\Infrastructure.Persistence\obj\Debug\net8.0\Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\PROYECTOS\Gestion-de-tareas\src\Infrastructure.Persistence\obj\Debug\net8.0\Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\usuario\Desktop\PROYECTOS\Gestion-de-tareas\src\Infrastructure.Persistence\obj\Debug\net8.0\Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\PROYECTOS\Gestion-de-tareas\src\Infrastructure.Persistence\obj\Debug\net8.0\Infrastructure.Persistence.sourcelink.json
+C:\Users\usuario\Desktop\PROYECTOS\Gestion-de-tareas\src\Infrastructure.Persistence\obj\Debug\net8.0\Infrastr.56C47081.Up2Date
+C:\Users\usuario\Desktop\PROYECTOS\Gestion-de-tareas\src\Infrastructure.Persistence\obj\Debug\net8.0\Infrastructure.Persistence.dll
+C:\Users\usuario\Desktop\PROYECTOS\Gestion-de-tareas\src\Infrastructure.Persistence\obj\Debug\net8.0\refint\Infrastructure.Persistence.dll
+C:\Users\usuario\Desktop\PROYECTOS\Gestion-de-tareas\src\Infrastructure.Persistence\obj\Debug\net8.0\Infrastructure.Persistence.pdb
+C:\Users\usuario\Desktop\PROYECTOS\Gestion-de-tareas\src\Infrastructure.Persistence\obj\Debug\net8.0\ref\Infrastructure.Persistence.dll
